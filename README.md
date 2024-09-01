@@ -52,7 +52,7 @@
 | MODE | mode public or private |
 | autoRead | make it true if you want bot to read messages |
 | statusview | make it true if you want bot to view status | 
-| OWNERS | owner number(916238768108;AmeenInt) | 
+| OWNERS | owner number(918138898059;WhiteInt) | 
 | BOTNAME | Your Bot Name | 
 | antidelete | bot will forward deleted messages if you make it true | 
 
