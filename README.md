@@ -1,11 +1,11 @@
-# KEIKO-V5
+# CRONAZ-XD V2
 </br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=bold&size=55&pause=1000&color=red&center=true&width=910&height=100&lines=I'M+KEIKO-V5;MULTI+FUNCTIONAL;WHATSAPP+BOT;MADE+WITH+LOVE🦋;CODED+BY+AMEEN-XNT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=bold&size=55&pause=1000&color=red&center=true&width=910&height=100&lines=I'M+KEIKO-V5;MULTI+FUNCTIONAL;WHATSAPP+BOT;MADE+WITH+LOVE🦋;CODED+BY+WHITE-XNT" alt="Typing SVG" /></a>
   
 <p align="center">  
-  <a href="https://wa.me/+916238768108?text=HEY+VRO+BIG+FAN+VRO😝">
-    <img alt=AMEEN-SER height="500" src="./AMEEN-SER/AMEEN.png" width="500">
+  <a href="https://wa.me/+918138898059?text=HEY+VRO+BIG+FAN+VRO😝">
+    <img alt=WHITE-SER height="500" src="./WHITE-SER/WHITE.png" width="500">
    
 </a> 
 
@@ -17,7 +17,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/AmeenRepo/KEIKO-V5/fork' target="_blank"><img alt='FORK KEIKO' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/W18T4SE6/CRONAZ-XD-V2/fork' target="_blank"><img alt='FORK KEIKO' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -72,11 +72,11 @@
   
 #### For Help To Visit Here
 
-<a href='https://instagram.com/mr.z_ninja' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=instagram&logoColor=pink'/></a>
+<a href='https://instagram.com/mr.kl_white_ser' target="_blank"><img alt='WHITE-SER' src='https://img.shields.io/badge/-WHITE_INT-white?style=for-the-badge&logo=instagram&logoColor=pink'/></a>
 <br>
 
-<a href='https://wa.me/916238768108?text=Hey🌠!+Want+Help' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
+<a href='https://wa.me/918138898059?text=Hey🌠!+Want+Help' target="_blank"><img alt='WHITE-SER' src='https://img.shields.io/badge/-WHITE_INT-white?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
 <br>
 
-<a href='https://github.com/AmeenRepo' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=github&logoColor=black'/></a>
+<a href='https://github.com/W18T4SE6' target="_blank"><img alt='WHITE-SER' src='https://img.shields.io/badge/-WHITE_INT-white?style=for-the-badge&logo=github&logoColor=black'/></a>
 <br>
