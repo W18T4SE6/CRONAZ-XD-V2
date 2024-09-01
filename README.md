@@ -67,12 +67,12 @@
 <br>
 2. Now Deploy
  <br>
-  <p align="center"><a href="https://app.koyeb.com/services/deploy/?type=git&repository=https%3A%2F%2Fgithub.com%2FAmeenRepo%2FKEIKO-V5&branch=main&name=keikov5&builder=dockerfile&args=npm&args=start&ports=8000%3Bhttp%3B%2F&env%5BSESSION_ID%5D=your_session"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="380" height="38.45"/></a></p>
+  <p align="center"><a href="https://app.koyeb.com/services/deploy/?type=git&repository=https%3A%2F%2Fgithub.com%2FW18T4SE6%2FCRONAZ-XD-V2&branch=main&name=keikov5&builder=dockerfile&args=npm&args=start&ports=8000%3Bhttp%3B%2F&env%5BSESSION_ID%5D=your_session"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="380" height="38.45"/></a></p>
   <br>
   
 #### For Help To Visit Here
 
-<a href='https://instagram.com/mr.kl_white_ser' target="_blank"><img alt='WHITE-SER' src='https://img.shields.io/badge/-WHITE_INT-white?style=for-the-badge&logo=instagram&logoColor=pink'/></a>
+<a href='https://instagram.com/kl_white_ser' target="_blank"><img alt='WHITE-SER' src='https://img.shields.io/badge/-WHITE_INT-white?style=for-the-badge&logo=instagram&logoColor=pink'/></a>
 <br>
 
 <a href='https://wa.me/918138898059?text=Hey🌠!+Want+Help' target="_blank"><img alt='WHITE-SER' src='https://img.shields.io/badge/-WHITE_INT-white?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
