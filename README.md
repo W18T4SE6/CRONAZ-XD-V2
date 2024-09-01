@@ -5,7 +5,7 @@
   
 <p align="center">  
   <a href="https://wa.me/+918138898059?text=HEY+VRO+BIG+FAN+VRO😝">
-    <img alt=WHITE-SER height="500" src="./WHITE-SER/WHITE.png" width="500">
+    <img alt=https://ik.imagekit.io/eypz/1725191604705_6ZNoT_vdy.png height="500" src="./WHITE-SER/WHITE.png" width="500">
    
 </a> 
 
