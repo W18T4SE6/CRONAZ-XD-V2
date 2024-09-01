@@ -25,7 +25,7 @@
    <br>
    > For Indian users Connect to a usa Vpn while login
     
-     <a href='https://whiteintv2.onrender.com/code' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='https://ameenintv5.onrender.com/code' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 #### DEPLOY TO HEROKU
 
@@ -36,7 +36,7 @@
 2. Now Deploy
    <br>
  <div align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/AmeenRepo/KEIKO-V5">
+  <a href="https://heroku.com/deploy?template=https://github.com/W18T4SE6/CRONAZ-XD-V2">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="DEPLOY TO HEROKU">
   </a>
 </div>
